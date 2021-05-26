@@ -1,3 +1,5 @@
+:bangbang: | No new features are being added here. For the latest verison of the service, see [Azure Video Analyzer](https://github.com/Azure/video-analyzer)
+:---: | :---
 
 # Live Video Analytics
 
