@@ -29,7 +29,7 @@
         "storageAccountName": "[concat(parameters('namePrefix'),uniqueString(resourceGroup().id))]",
         "amsAccountName": "[concat(parameters('namePrefix'),uniqueString(resourceGroup().id))]",
         "hubName": "[concat(parameters('namePrefix'),'hub',uniqueString(resourceGroup().id))]",
-        "registryName": "[concat(parameters('namePrefix'),'registry',uniqueString(resourceGroup().id))]",
+        "registryName": "[concarefix'),'registry',uniqueString(resourceGroup().id))]",
         "hubApiVersion": "2019-11-04",
         "bastionName": "[concat(parameters('namePrefix'),'-bastion')]",
         "vnetName": "[concat(parameters('namePrefix'),'-vnet')]",
