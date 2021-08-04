@@ -6,7 +6,7 @@
             "metadata": {
                 "description": "Used to qualify the names of all of the resources created in this template."
             },
-            "defaultValue": "lvasample",
+            "defaultValue": "lvatestsample",
             "type": "string",
             "minLength": 3,
             "maxLength": 13
